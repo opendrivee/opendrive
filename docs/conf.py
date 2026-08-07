@@ -1,5 +1,5 @@
-project = 'Open Drive'
-author = 'Open Drive'
+project = 'One Drive'
+author = 'One Drive'
 release = '1.0'
 
 # Extensions
